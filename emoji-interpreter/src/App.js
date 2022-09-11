@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>emojipediaaaaaaaaaa</h1>
+      <h1>emojipediaaaaa</h1>
       <input
         onChange={emojiInputChangeHandler}
         value={emoji}
